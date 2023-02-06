@@ -1,4 +1,4 @@
-# Proyecto 01 -> Web Responsive
+# Proyecto 01 -> Página web responsive
 
 ## DISEÑO
 
