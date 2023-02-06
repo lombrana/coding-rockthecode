@@ -7,8 +7,8 @@
 
 ## TODO
 
-- [] Definición meta
-- [] Importar fuente externa
+- [✅] Definición meta
+- [✅] Importar fuente externa
 - [] Definición estructura principal
 - [] Variables y paleta
 - [] Estilos globales
